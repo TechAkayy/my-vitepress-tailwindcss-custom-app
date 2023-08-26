@@ -5,7 +5,6 @@
 <template>
   <div class="flex flex-col items-center p-4">
     <ChildCard />
-    <BaseButton />
     <button class="rounded-full bg-blue-600 text-white p-4">Quick Start</button>
   </div>
 </template>
